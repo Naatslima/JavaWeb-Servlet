@@ -1,0 +1,27 @@
+ body {
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+ div {
+    margin: 100px auto;
+    width: 450px;
+    background-color: #bbb3b3;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+ button {
+    background-color: #db1280;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    }
+
+    h1 {
+      text-decoration: underline;
+    }
